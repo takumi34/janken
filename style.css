@@ -1,32 +1,32 @@
 @charset "utf-8";
 
 body {
-	background-color:#DDDDDD;
+  background-color: #dddddd;
 }
-h1{
+h1 {
   text-align: center;
 }
 
-p{
+p {
   text-align: center;
 }
 
-div{
+div {
   text-align: center;
 }
 
-  .button {
-        background-color: #008CBA;;
-        font-size: 1.4em;
-        font-weight: bold;
-        color: #FFFFFF;
-        padding: 15px;
-        border-radius: 10px;
-  
-        border-style: none;
+.button {
+  background-color: #008cba;
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 10px;
 
-        margin:20px
-    }
-   .button:hover{
+  border-style: none;
+
+  margin: 20px;
+}
+.button:hover {
   background-color: #24d;
-  }
+}
