@@ -1,0 +1,5 @@
+@charset "utf-8";
+body{
+
+background: repeating-liner-gradient(30deg, #79b, #79b 15px, #58a 0, #58a 30px);
+}
